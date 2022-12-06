@@ -1,0 +1,27 @@
+.content { 
+    width: 70%;
+    margin: auto;
+    border: 2px;
+}
+
+h1, h2, h3 {
+    font-family: sans-serif;
+}
+
+h1 {
+    width: 32px;
+}
+
+table {
+    border: 1px solid #000;
+    border-color: black;
+}
+
+.italic {
+    font-family: cursive;
+}
+
+.right{
+    float: right; /* Выравнивание по правому краю */
+    margin: 0 0 1em 1em; /* Отступ снизу и слева */
+   }
